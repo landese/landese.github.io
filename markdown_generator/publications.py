@@ -58,11 +58,13 @@ def create_md(lines: list, layout: list):
         md += "\n---"
         
         # Markdown description for individual page
-        if len(str(item[layout.index('paper_url')])) > 5:
-            md += f"\n<a href='{item[layout.index('paper_url')]}'>Download paper here</a>\n"
+       # if len(str(item[layout.index('paper_url')])) > 5:
+        #    md += f"\n<a href='{item[layout.index('paper_url')]}'>Download paper here</a>\n"
         if len(str(item[layout.index('excerpt')])) > 5:
             md += f"\n{html_escape(item[layout.index('excerpt')])}\n"
-        md += f"\nRecommended citation: {item[layout.index('citation')]}"
+            
+        # removed for testing due to duplicate lines
+       # md += f"\nRecommended citation: {item[layout.index('citation')]}"
         
         # Write the file
         md_filename = os.path.join("../_publications/", os.path.basename(md_filename))

@@ -1,4 +1,14 @@
 pub_date,title,venue,excerpt,citation,url_slug,paper_url,slides_url,category
-2009-10-01,Paper Title Number 1,Journal 1,This paper is about the number 1. The number 2 is left for future work.,"Your Name, You. (2009). ""Paper Title Number 1."" <i>Journal 1</i>. 1(1).",paper-title-number-1,https://academicpages.github.io/files/paper1.pdf,http://academicpages.github.io/files/slides1.pdf,manuscripts
-2010-10-01,Paper Title Number 2,Journal 1,This paper is about the number 2. The number 3 is left for future work.,"Your Name, You. (2010). ""Paper Title Number 2."" <i>Journal 1</i>. 1(2).",paper-title-number-2,https://academicpages.github.io/files/paper2.pdf,http://academicpages.github.io/files/slides2.pdf,manuscripts
-2015-10-01,Paper Title Number 3,Journal 1,This paper is about the number 3. The number 4 is left for future work.,"Your Name, You. (2015). ""Paper Title Number 3."" <i>Journal 1</i>. 1(3).",paper-title-number-3,https://academicpages.github.io/files/paper3.pdf,http://academicpages.github.io/files/slides3.pdf,manuscripts
+2025-01-01,Is it a tastytaste or a greedgrab? The importance of label choice in language design,Philosophical Psychology,NA,,78080,https://doi.org/10.1080/09515089.2025.2531401,,manuscripts
+2025-01-01,Rage against the authority machines: how to design artificial moral advisors for moral enhancement,AI & SOCIETY,NA,,68318,https://doi.org/10.1007/s00146-024-02135-3,,manuscripts
+2025-01-01,Philosophical Methodology: From Data to Theory,The Philosophical Quarterly,NA,,59869,https://doi.org/10.1093/pq/pqae113,,manuscripts
+2024-01-01,Conceptual engineering is old news,The Philosophical Quarterly,NA,,59492,https://doi.org/10.1093/pq/pqae087,,manuscripts
+2025-01-01,Conceptual Revision in Action,Review of Philosophy and Psychology,NA,,79562,https://doi.org/10.1007/s13164-025-00769-w,,manuscripts
+2025-01-01,Conceptual Engineering Should be Empirical,Erkenntnis,NA,,8984,https://doi.org/10.1007/s10670-025-00923-x,,manuscripts
+2023-01-01,"Philosophical producers, philosophical consumers, and the metaphilosophical value of original texts",Philosophical Studies,NA,,23515,https://link.springer.com/10.1007/s11098-022-01900-8,,manuscripts
+2027-01-01,"AI Should Develop Human Empathy, Not Replace It","Empathy and Artificial Intelligence: Challenges, Advances, and Ethical Considerations",NA,,40388,NA,,manuscripts
+2023-01-01,The threat of the intuition-shaped hole,Inquiry,NA,,53672,https://doi.org/10.1080/0020174X.2020.1742784,,manuscripts
+2025-01-01,"How Language Teaches and Misleads: ""Coronavirus"" and ""Social Distancing"" as Case Studies",New Perspectives on Conceptual Engineering,NA,,21285,NA,,manuscripts
+2026-01-01,Trust in artificial moral advisors across cultures,NA,NA,,65698,https://osf.io/preprints/psyarxiv/sfe9u_v1/,,manuscripts
+2026-01-01,"People defer to AI moral advice, but not blindly",Cognition,"<div data-schema-version=""9""><p>This is a test note</p> <p></p> </div>",,64018,https://www.sciencedirect.com/science/article/pii/S0010027726000703,,manuscripts
+2027-01-01,Trust in Ai is Not a Conceptual Confusion,Ergo,NA,,53359,NA,,manuscripts
