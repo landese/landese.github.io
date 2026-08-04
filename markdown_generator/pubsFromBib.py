@@ -26,14 +26,14 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "pubs.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
+#    "proceeding": {
+#        "file" : "proceedings.bib",
+#        "venuekey": "booktitle",
+#        "venue-pretext": "In the proceedings of ",
+#        "collection" : {"name":"publications",
+#                       "permalink":"/publication/"}
+#        
+#    },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
@@ -44,7 +44,7 @@ publist = {
 }
 
 html_escape_table = {
-    "&": "&amp;",
+    #"&": "&amp;",
     '"': "&quot;",
     "'": "&apos;"
     }
@@ -116,6 +116,8 @@ for pubsource in publist:
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
+            
+            md += """\ncategory: manuscripts"""
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
             
@@ -144,10 +146,10 @@ for pubsource in publist:
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
-            else:
-                md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+        #    if url:
+        #       md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+        #    else:
+        #        md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             md_filename = os.path.basename(md_filename)
 
