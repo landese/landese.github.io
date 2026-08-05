@@ -41,10 +41,13 @@ publist = {
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
     } 
+
+    
+
 }
 
 html_escape_table = {
-    #"&": "&amp;",
+    #"&": "&amp;", # removed since it resulted in the Journal AI & Society showing up as "AI &amp; Society"
     '"': "&quot;",
     "'": "&apos;"
     }
