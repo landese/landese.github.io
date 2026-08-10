@@ -35,7 +35,7 @@
   border-bottom: 1px solid var(--global-border-color);
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: .5em;
   }
 }
 
@@ -90,6 +90,8 @@
    ========================================================================== */
 
 .list__item {
+  margin-bottom: 3.5rem; // added for visuals
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }

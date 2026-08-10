@@ -1,12 +1,14 @@
 ---
 title: "Conceptual engineering is old news"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2024-07-01-Conceptual-engineering-is-old-news
 excerpt: 'According to a prevailing view, conceptual engineering introduces a revolutionary philosophical methodology, challenging traditional conceptual analysis. However, in our paper, we argue that closer scrutiny reveals not only the falsity but also the inherent ambiguity of this narrative. We explore four interpretations of the ‘Anti-Novelty Claim’, the claim that conceptual engineering is not a new way of doing philosophy. Discussing the Anti-Novelty Claim from the perspective of a text&apos;s producer, the text&apos;s consumers, and the exegetical potential of the text, we examine each perspective&apos;s metaphilosophical implications and demonstrate that taking each perspective requires different methods. Adopting these different methods, we argue that the different interpretations of the Anti-Novelty Claim range from nearly trivially true to unlikely but untested. Importantly, we emphasize that each interpretation offers unique philosophical insights, yet addressing them requires diverse types of evidence, preventing a singular, straightforward answer to whether conceptual engineering is new.'
 date: 2024-07-01
 venue: 'The Philosophical Quarterly'
 paperurl: 'https://doi.org/10.1093/pq/pqae087'
-citation: ' Krzysztof Sękowski,  Ethan Landes, &quot;Conceptual engineering is old news.&quot; The Philosophical Quarterly, 2024.'
+citation: 'Krzysztof Sękowski and Ethan Landes.
+Conceptual engineering is old news.
+<em>The Philosophical Quarterly</em>, pages pqae087, July 2024.'
 ---
 According to a prevailing view, conceptual engineering introduces a revolutionary philosophical methodology, challenging traditional conceptual analysis. However, in our paper, we argue that closer scrutiny reveals not only the falsity but also the inherent ambiguity of this narrative. We explore four interpretations of the ‘Anti-Novelty Claim’, the claim that conceptual engineering is not a new way of doing philosophy. Discussing the Anti-Novelty Claim from the perspective of a text&apos;s producer, the text&apos;s consumers, and the exegetical potential of the text, we examine each perspective&apos;s metaphilosophical implications and demonstrate that taking each perspective requires different methods. Adopting these different methods, we argue that the different interpretations of the Anti-Novelty Claim range from nearly trivially true to unlikely but untested. Importantly, we emphasize that each interpretation offers unique philosophical insights, yet addressing them requires diverse types of evidence, preventing a singular, straightforward answer to whether conceptual engineering is new.

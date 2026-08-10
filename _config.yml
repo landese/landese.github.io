@@ -86,10 +86,17 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
+  #books:
+  #  title: 'Books'
+  journal:
     title: 'Journal Articles'    
+  chapter:
+    title: 'Book Chapters'
+  preprint: 
+    title: 'Preprints and Drafts'
+  thesis:
+    title: 'PhD Dissertation'
+
   conferences:
     title: #'Conference Papers'
 

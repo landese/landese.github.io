@@ -11,8 +11,13 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Other Writing"
+    url: /portfolio/
+
   - title: "CV"
     url: /files/Landes_CV.pdf
+    right: true 
+
 
   #- title: "Talks"
   #  url: /talks/    

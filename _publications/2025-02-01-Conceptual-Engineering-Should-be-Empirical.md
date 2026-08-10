@@ -1,12 +1,14 @@
 ---
 title: "Conceptual Engineering Should be Empirical"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2025-02-01-Conceptual-Engineering-Should-be-Empirical
 excerpt: 'Conceptual engineering is a philosophical method that aims to design and spread conceptual and linguistic devices to cause meaningful changes in the world. So far, however, conceptual engineers have struggled to successfully spread the conceptual and linguistic entities they have designed to their target communities. This paper argues that conceptual engineering is far more likely to succeed if it incorporates empirical data and empirical methods. Because the causal factors influencing the successful propagation of linguistic or conceptual devices are as complicated and interwoven as they are, proper empirical research will greatly boost the likelihood that propagation is successful. In arguing for the superiority of empirical conceptual engineering over armchair-based conceptual engineering, this paper proposes a framework for understanding the causal forces at play in propagation. This is a three-part framework between the label of a lexical item, the psychological states associated with the lexical item, and the worldly things associated with the lexical item. By understanding the way causal forces affecting propagation play out at these three levels, conceptual engineers can better conceptualize, study, and harness the different causal forces affecting the success of their conceptual engineering projects.'
 date: 2025-02-01
 venue: 'Erkenntnis'
 paperurl: 'https://doi.org/10.1007/s10670-025-00923-x'
-citation: ' Ethan Landes, &quot;Conceptual Engineering Should be Empirical.&quot; Erkenntnis, 2025.'
+citation: 'Ethan Landes.
+Conceptual <span class=&quot;bibtex-protected&quot;>Engineering</span> <span class=&quot;bibtex-protected&quot;>Should</span> be <span class=&quot;bibtex-protected&quot;>Empirical</span>.
+<em>Erkenntnis</em>, February 2025.'
 ---
 Conceptual engineering is a philosophical method that aims to design and spread conceptual and linguistic devices to cause meaningful changes in the world. So far, however, conceptual engineers have struggled to successfully spread the conceptual and linguistic entities they have designed to their target communities. This paper argues that conceptual engineering is far more likely to succeed if it incorporates empirical data and empirical methods. Because the causal factors influencing the successful propagation of linguistic or conceptual devices are as complicated and interwoven as they are, proper empirical research will greatly boost the likelihood that propagation is successful. In arguing for the superiority of empirical conceptual engineering over armchair-based conceptual engineering, this paper proposes a framework for understanding the causal forces at play in propagation. This is a three-part framework between the label of a lexical item, the psychological states associated with the lexical item, and the worldly things associated with the lexical item. By understanding the way causal forces affecting propagation play out at these three levels, conceptual engineers can better conceptualize, study, and harness the different causal forces affecting the success of their conceptual engineering projects.
