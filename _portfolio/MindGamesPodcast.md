@@ -1,5 +1,5 @@
 ---
-title: "Podcast Appearance: Mind Games Podcast"
+title: "Podcast Appearance:<br>Mind Games Podcast"
 excerpt: "In an interview by psychologist Rohan Kapitany, I discuss the intersection of moral psychology and philosophy as it relates to role playing games like Dungeons and Dragons with psychologist and collaborator Kathryn Francis."
 collection: portfolio
 type: grid

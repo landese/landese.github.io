@@ -1,5 +1,5 @@
 ---
-title: "Blog: The Jargon Blog"
+title: "Blog:<br>The Jargon Blog"
 excerpt: "An occassional blog discussing the philosophy of technical language, written for a general-ish audience."
 collection: portfolio
 type: blog

@@ -90,7 +90,9 @@
    ========================================================================== */
 
 .list__item {
-  margin-bottom: 3.5rem; // added for visuals
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -108,7 +110,6 @@
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
