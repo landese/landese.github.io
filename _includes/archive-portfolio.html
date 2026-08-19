@@ -23,9 +23,9 @@
     </div>
     {% endif %}
 
-    <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+    <div style="max-width: 800px; margin: 0 auto;">
 
-      <h2 class="archive__item-title" itemprop="headline" style="text-align: center;">
+      <h2 class="archive__item-title" itemprop="headline", style = "text-align: center;">
         {% if post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a> {% comment %}<a href="{{ base_path }}{{ post.url }}"
           rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span
@@ -38,7 +38,7 @@
       </h2>
 
       {% if teaser %}
-      <div class="archive__item-image" style="text-align: center; margin: 1em 0;">
+      <div class="archive__item-image", style = "text-align: center;" >
         <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}"
           alt="{{ title }}"
           style="width: 100%; max-width: 400px; height: 250px; object-fit: cover; border-radius: 4px;">
@@ -51,10 +51,10 @@
 
 
       {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description" style="text-align: left !important;">{{ post.excerpt | markdownify }}
+      <p class="archive__item-excerpt" itemprop="description" style="text-align: left;">{{ post.excerpt | markdownify }}
       </p>
       {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description" style="text-align: left !important;">{{ post.excerpt | markdownify |
+      <p class="archive__item-excerpt" itemprop="description" style="text-align: left;">{{ post.excerpt | markdownify |
         remove: '
       <p>' | remove: '</p>' }} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong>
       </p>

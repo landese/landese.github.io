@@ -1,0 +1,8 @@
+---
+title: "The Learning from Bullshit Trilogy"
+excerpt: "A three-paper project that explored how we can learn from people or things that don't actually care if what they are telling us is true. The core observation in these works is that we can be shown something is true even by someone who does not want to or cannot honestly tell us that it is true. The [first paper](https://link.springer.com/article/10.1007/s11098-022-01900-8) looked at insincerely written works of philosophy, such as philosophical hoaxes, arguing such works are perfectly capable of producing knowledge in readers. This, I argued, has metaphilosophical upshots on what inferences we draw about the methods of philosophy from works of philosophy. Then ChatGPT happened. The [next paper](https://link.springer.com/article/10.1007/s00146-024-02135-3) turned to the question of artificial moral advisors -- AI designed to help people make moral decisions. With collaborators, we argued that AI can be used responsibly for moral growth, but only if they use the AI as inspiration for their own thinking and moral growth rather than simply deferring to its advice. The [final paper](https://www.sciencedirect.com/science/article/pii/S0010027726000703) put this to the test experimentally. By manipulating the justification for moral advice and participants' evidence of the moral advisor's reliability, we found that those people who are persuaded by AI moral advice do so because they do in fact defer to the advice."
+collection: projects
+type: past projects
+external_url: 
+image:
+---
