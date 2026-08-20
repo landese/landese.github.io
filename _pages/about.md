@@ -15,4 +15,4 @@ My main areas of research are metaphilosophy, philosophy of technology, experime
 
 Previously, I was a postdoc at the University of Kent's Department of Psychology, funded by the Leverhulme Trust, as part of Jim Everett's Multidimensional Trust in Moral Machines team. There I researched the social epistemology of AI and how AI fits into our existing interpersonal concepts and schemas.
 
-Before that, I was an SNF postdoc at the University of Zürich on the project "Dual-Character Concepts: Bridging the Descriptive and the Normative" with Kevin Reuter, and my PhD was on the philosophy of philosophy at the University of St Andrews. 
+Before that, I was an SNF postdoc at the University of Zurich on the project "Dual-Character Concepts: Bridging the Descriptive and the Normative" with Kevin Reuter, and I completed my PhD at the University of St Andrews. 
