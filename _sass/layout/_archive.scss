@@ -29,18 +29,18 @@
 
 .archive__subtitle {
   margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
+  padding-bottom: 0.2em;
   font-size: $type-size-5;
   color: var(--global-text-color-light);
   border-bottom: 1px solid var(--global-border-color);
 
   + .list__item .archive__item-title {
-    margin-top: .5em;
+    margin-top: .2em;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.3em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -90,8 +90,8 @@
    ========================================================================== */
 
 .list__item {
-  margin-bottom: 0.5rem;
-  padding-bottom: 0.5rem;
+  margin-bottom: 0.0rem;
+  padding-bottom: 0.2rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 
   @include breakpoint($medium) {
