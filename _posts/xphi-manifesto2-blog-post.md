@@ -1,7 +1,7 @@
 ---
 title: 'Experimental Philosophers: It’s time to stop calling ourselves analytic philosophers'
-date: 2026-08-31
-permalink: /posts/2nd-xphi-manifesto/
+date: 2026-08-28
+permalink: /posts/2026/08/2nd-xphi-manifesto/
 tags:
   - experimental philosophy
   - metaphilosophy
@@ -27,7 +27,7 @@ Second, analytic philosophy has imperialist tendencies. If a philosophy departme
 
 This exclusionary attitude hasn't stopped professional philosophers from trying to forge a different, non-analytic path. An admirable few have taught themselves continental, eastern, African, indigenous, or Islamic philosophy. But more collectively, academic philosophy has seen a rise of what my old colleague Clotilde Torregrossa (2024) calls [*alternative methodologies*](https://doi.org/10.1007/s10670-022-00568-0). These include, but are not limited to: the applied turn; corners drawing more explicitly from continental philosophy, such as feminist philosophy; conceptual engineering; and yes, experimental philosophy.
 
-## 2: The Experimental Philosopher's Bind
+## The Experimental Philosopher's Bind
 
 Over the years I've spent a lot of time talking to (mostly European) experimental philosophers about how they see themselves in the field. I really can't help myself. I am fascinated by the anthropology of the field and my dissertation drew inspiration from Kuhn by taking the sociology and anthropology of philosophy to be a key part of any metaphilosophical discussion. Moreover, these sort of discussions are probably also inevitable consequences of a consequence between members of the same out-group, but let's set that aside.
 
@@ -43,13 +43,11 @@ This sort of appeasement is, by and large, what we see in the academic literatur
 
 Consider negative experimental philosophy. The tradition (which, despite its salience, is a very, very small minority of the community) often presents itself and is seen as explicitly hostile towards armchair philosophy. *The armchair must be burned and may we be the people to burn it*, etc., etc., Indeed, many of negative experimental philosophy’s practitioners and much of its support were from people who were attracted to it precisely because they were unhappy with analytic philosophy's grip on the discipline. In practice, however, negative experimental philosophy's scholarship always presents itself as being in service of analytic philosophy; negative experimental philosophy is a way to evaluate certain epistemic practices to improve existing philosophical projects. Take Machery's "[Philosophy within its proper bounds](https://academic.oup.com/book/2752)" (2017). It is deeply skeptical of the armchair, but lays out how to use experimental methods to improve our access to modal knowledge. If there is a more late-stage-analytic phrase, let alone stated goal, as modal knowledge, I cannot think of it. If Machery’s program succeeds, we might radically change how we do philosophy, but we will not radically change what sort of questions we ask or why we ask them. (There is so much more to be said about how negative xphi implicitly relies on analytic philosophy, but I'll have to save that for another time).
 
-## Section break?
-
 What if we as experimental philosophers stopped playing this game? What if we pitched experimental philosophy as something historically connected with analytic philosophy but not metaphilosophically connected to it? As its own philosophy with its own methods and its own questions? As a tradition of philosophy as legitimate of an heir to Aristotle, Leibniz, Hume, and Quine as analytic philosophy?
 
 For a lot of us, this would certainly be more truthful than how we currently pitch our work. Experimental philosophy is by no means a unified field, but a lot of its members, myself among them, just do not care about or believe in the specific problems and specific questions analytic philosophy is working on. Sure, we can pitch our research as applying to those debates. God knows I could monologue off the cuff for an hour about why my experimental research actually matters to ongoing debates in analytic philosophy. Nonetheless, if we are being honest with ourselves, those problems aren’t what motivates us. They are little more than a gateway drug introducing us to other puzzles about, e.g., knowledge, morality, or the mind. We are now interested in our own things, and they are philosophy because they are deep, deep questions about ourselves and our reality.
 
-## 3: What is experimental philosophy?
+## What is experimental philosophy?
 
 Let me manage expectations for this section. I'm not going to give an account of experimental philosophy as its own tradition of philosophy. It's too heterogeneous of a tradition. It doesn't simply carve between philosophers who run experiments and those who don't. There are philosophers running experiments who are straightforwardly analytic philosophers who are running empirical studies that are still very much coming from an affinity to analytic philosophy. There are also experimental philosophers who don't see themselves as philosophers at all (more on that below). Plus, one shouldn't try to give necessary and sufficient conditions for sociocultural phenomena; we can't give necessary and sufficient conditions for being punk (not that some philosophers won't try). Nonetheless, when comparing experimental philosophy with the analytic status quo, its most salient features are its *methodological naturalism* and emphasis on *process*.
 
