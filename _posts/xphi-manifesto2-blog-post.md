@@ -1,7 +1,7 @@
 ---
 title: 'Experimental Philosophers: It’s time to stop calling ourselves analytic philosophers'
 date: 2026-08-31
-permalink: /posts/2013/08/xphi-manifesto-2/
+permalink: /posts/2nd-xphi-manifesto/
 tags:
   - experimental philosophy
   - metaphilosophy
