@@ -66,7 +66,7 @@ As Thomas Nadelhoffer argued in the comments section of Daily Nous:
 
 > But why isn’t this just psychology, not philosophy? I think this is only a question one would ask if they hadn’t spent any time reading much experimental philosophy and psychology. The experimental design and the presentation of the findings are methodologically similar. But the way the papers are framed and the discussion of the findings are distinctly different. Most work in psychology is not aimed at shedding light on the empirical claims made by philosophers. Experimental philosophers run experiments to shed precisely such light.
 
-The key factor, again, is what motivates the inquiry. I'll be the first to admit that not everything that calls itself  experimental philosophy is motivated by distinctly philosophical questions, but a lot of it is. 
+The key factor here is what motivates the inquiry. I'll be the first to admit that not everything that calls itself experimental philosophy is motivated by distinctly philosophical questions, but a lot of it is. As discussion above highlights, there is very, very little space for a principled dividing line between empirically-informed philosophy and philosophically-motivated experimental philosophy. 
 
 
 Science and Philosophy 
