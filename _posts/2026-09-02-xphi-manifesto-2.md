@@ -8,9 +8,7 @@ tags:
   - metaphilosophy
 ---
 
-<<<<<<< HEAD
-A few years ago I saw a friend give an experimental philosophy talk at a departmental seminar. During the Q&A, someone in the audience asked the question all of us in experimental philosophy have learned to dread: "But is this actually philosophy? Seems to me you are just doing psychology." My friend did their best to respond to it, but they noticeably struggled to address the concern. At the post-talk reception, I introduced myself to the audience member and asked them to say a bit more about why they thought it wasn’t philosophy. The audience member didn't have an answer. I don't mean that they gave a bad reason. I mean they literally shrugged their shoulders and mumbled something non-committal.
-=======
+
 A few years ago I saw a friend give an experimental philosophy talk at a departmental seminar. During the Q&A, someone in the audience asked the question all of us in experimental philosophy have learned to dread: "But is this actually philosophy? Seems to me you are just doing psychology." 
 
 My friend did their best to respond to it, but they noticeably struggled to address the concern. At the post-talk reception, I introduced myself to the audience member and asked them to say a bit more about why they thought it wasn’t philosophy. The audience member didn't have an answer. I don't mean that they gave a bad reason. I mean they literally shrugged their shoulders and mumbled something non-committal.
