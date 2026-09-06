@@ -12,8 +12,6 @@ I wanted to respond to two themes that popped in criticism of [my last post](htt
 
 I’ll start by defending my characterization of analytic philosophy, then argue that "this isn't philosophy" is a philosophically unmotivated position to take towards experimental philosophy. There simply isn’t a good reason to think it, let alone say it. 
 
-To the philosophers from other subdisciplines who have reached to say they've been on the wrong side of similar boundary-policing, I hope you find this to be a helpful starting point to mount your own defense.
-
 Two Clarifications
 -----
 
