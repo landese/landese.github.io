@@ -8,7 +8,7 @@ tags:
   - metaphilosophy
 ---
 
-I wanted to respond to two themes that popped in criticism of [my last post](https://ethanlandes.com/posts/2026/01/xphi-manifesto-2/) in the Daily Nous [comment section](https://dailynous.com/2026/09/04/free-to-be-experimental-philosophy): that I was being unfair to analytic philosophy and that regardless of what I might think, experimental philosophy is not philosophy.
+I wanted to respond to two themes that popped in criticism of [my last post](https://ethanlandes.com/posts/2026/01/xphi-manifesto-2/) in the Daily Nous [comment section](https://dailynous.com/2026/09/04/free-to-be-experimental-philosophy): that I was being unfair to analytic philosophy and that regardless of what I might think, experimental philosophy is not philosophy. 
 
 I’ll start by defending my characterization of analytic philosophy, then argue that "this isn't philosophy" is a philosophically unmotivated position to take towards experimental philosophy. There simply isn’t a good reason to think it, let alone say it. 
 
