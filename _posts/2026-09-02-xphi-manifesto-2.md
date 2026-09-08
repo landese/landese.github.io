@@ -95,3 +95,13 @@ What about those who think experimental philosophy is neither experimental philo
 This is the future third way folk should be striving for. If they truly believe that their research program is legitimate but not philosophy, the surest way to convince others of this fact is to bend institutional structures to match. It is even worth asking if this is the right pathway forward for all of experimental philosophy. Some inspiration can be drawn from HPS (history and philosophy of science). Despite also being marginalized from the core analytic program, HPS has nonetheless established itself as a legitimate semi-independent discipline with dedicated HPS departments at Pittsburgh and Cambridge, and HPS scholars often (but not always) wind up in philosophy departments as philosophers of science.
 
 Creating independent departments would certainly make many experimental philosophers' lives better, but it would not solve the underlying problem: although things are improving, contemporary analytic philosophy still is too parochial, chauvinistic, and unimaginative about what philosophy could be. Experimental philosophy has, for all its existence, opposed these features of contemporary philosophy. Creating a walled garden for experimental philosophy will only serve to protect experimental philosophers. It will not help others who similarly chafe against the contemporary – and historically contingent – limits of the discipline. To help these others, we experimental philosophers need to make space in our colleagues' minds for the legitimacy of philosophical projects other than the current analytic project. A good first step is responding to "But is this philosophy?" with "Yes, but not the kind you are used to."
+
+
+
+
+
+ -----
+
+ *Update: I have written a short follow-up addressing some concerns:*
+ 
+ *[Yes it is Philosophy](https://ethanlandes.com/posts/2026/09/xphi-response-to-comments/)*

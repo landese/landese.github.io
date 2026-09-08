@@ -84,3 +84,7 @@ Descartes isn't alone. As recently as the early 20th Century, the American pragm
 
 These all look like cases where philosophers' own empirical work informed their philosophy. One might object that these are not analytic philosophers and thus - for some reason unique to analytic philosophy - the analogy with experimental philosophy doesn't work. My response to this objection returns us to the main point of my first post. If analytic philosophy is incompatible with philosophy-science, that's fine. Experimental philosophy isn't analytic philosophy. That nonetheless doesn't entail that experimental philosophy isn't philosophy.
 
+ -----
+
+
+ *Update: a surprising number of people have reached out on social media commiserating about facing similarly unjustified boundary-policing in other subdisciplines. I hope this post offers inspiration for how to address it in your own cases.*  
