@@ -87,4 +87,4 @@ These all look like cases where philosophers' own empirical work informed their 
  -----
 
 
- *Update: a surprising number of people have reached out on social media commiserating about facing similarly unjustified boundary-policing in other subdisciplines. I hope this post offers inspiration for how to address it in your own cases.*  
+ *Update: a surprising number of people have reached out on social media to commiserate about facing similarly unjustified boundary-policing in other subdisciplines. I hope this post offers inspiration for how to address it in your own cases.*  
