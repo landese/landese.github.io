@@ -13,7 +13,31 @@ var $hlinks = $('#site-nav .hidden-links');
 
 var breaks = [];
 
+function isMobileNav() {
+  return window.matchMedia('(max-width: 768px)').matches;
+}
+
 function updateNav() {
+
+  if (isMobileNav()) {
+    while ($vlinks.children().length > 0) {
+      $vlinks.children().last().prependTo($hlinks);
+    }
+
+    $btn.removeClass('hidden');
+    $btn.removeClass('close');
+    $hlinks.addClass('hidden');
+    $btn.attr('count', $hlinks.children().length);
+    return;
+  }
+
+  while ($hlinks.children().length > 0) {
+    if ($vlinks_persist_tail.children().length > 0) {
+      $hlinks.children().first().insertBefore($vlinks_persist_tail);
+    } else {
+      $hlinks.children().first().appendTo($vlinks);
+    }
+  }
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 

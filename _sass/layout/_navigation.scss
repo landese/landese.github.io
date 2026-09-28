@@ -193,13 +193,19 @@
     position: absolute;
     height: 2.5rem;
     right: 0;
+    top: 0.25rem;
     padding: 0 0.5rem;
     border: 0;
+    border-radius: $border-radius;
     outline: none;
     background-color: var(--global-bg-color);
     color: var(--global-text-color);
     cursor: pointer;
     z-index: 100;
+
+    &:hover {
+      background: var(--global-border-color);
+    }
   }
 
   .visible-links {
@@ -264,16 +270,17 @@
     position: absolute;
     top: 100%;
     right: 0;
-    margin-top: 15px;
-    padding: 5px;
+    min-width: min(18rem, 80vw);
+    margin-top: 0.75rem;
+    padding: 0.25rem;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
     background: var(--global-bg-color);
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: 0 0 12px rgba(#000, 0.18);
 
     a {
       margin: 0;
-      padding: 10px 20px;
+      padding: 0.75rem 1rem;
       font-size: $type-size-5;
 
       &:hover {
