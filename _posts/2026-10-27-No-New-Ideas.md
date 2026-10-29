@@ -34,7 +34,7 @@ These two schema are somewhat further apart than they might  first appear, as "e
 
 Even worse, I think the language planning schema is better. I've been working on a paper that maps out what is known about how to engage in effective conceptual engineering, and one frustration I've been running into is that the traditional way of seperating out stages of conceptual engineering doesn't capture the realities of practice. *Describing* what exists is only motivated if one already has a sense that there is something worth *evaluating*, and one can't responsibly *improve* a concept or word unless one already has thought through the process of *implementing* it. These observations cut awkwardly across the conceptual engineering schema, but they fit quite well with the language planning schema. Language planning's *fact finding* proceeds from the sense that something is wrong, and *planning* involves thinking about the solution and spread of the solution at the same time. Not to mention that the language planners add in an extra step at the end that looks both valuable and extrordinarily responsible, namely learning what one can after a project has completed and collecting feedback from affected people. 
 
-I have, with only one exception, never seen language planning discussed or even cited by conceptual engineers (and that one exception is a cursory mention in one of my own papers - so I'm partially to blame for not digging deeper). 
+I have, with only one exception, never seen language planning discussed or even cited by conceptual engineers (and that one exception is a [cursory mention](https://philpapers.org/rec/LANIIA-5) in one of my own papers - so I'm partially to blame for not digging deeper). 
 
 The upshot of this is a bit boggling. 
 
